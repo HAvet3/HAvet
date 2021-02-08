@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/ZsYvvwL.png" tvg-id="PublicTelevisionArmenia.bg",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="H1.am" tvg-logo="https://lh3.googleusercontent.com/proxy/SDxV7_6jhSiUMIN1_m-JihfkhofnqILwJIhdMq5YAhpKuSCrXdsK1jdQOXjm1GQsvbCRj5vnA6Q619bHxPZT2U84voLCKC1AUm2nA3uPad7acyET23M",H1
+http://timeshift.arpinet.am/1/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="H2.am" tvg-logo="https://scontent.fevn4-1.fna.fbcdn.net/v/t1.0-9/91135477_3035639679863004_3040417317457494016_n.png?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=Dy7AqpJQeN4AX8q4-8q&_nc_ht=scontent.fevn4-1.fna&oh=aac7404479118e9499d102978a6646ba&oe=6048555E",H2
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ArmeniaTV.am" tvg-logo="http://kareniptv.eu/armtv.png",Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ArmeniaTV.am" tvg-logo="http://kareniptv.eu/armtv.png",Armenia TV HD
+http://cf.moskvatv.com:80/live/hayastantv/rhrthdvduwnewuine/3.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/usarm.png",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Shant.am" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeMUOZTa4y8aigP2quVDgHzZKEa3EPyCNvA&usqp=CAU0",Shant
+http://185.220.35.94:8080/shant/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/shantnews.png",Shant Premium HD
+http://185.220.35.94:8080/shantpremium/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Kentron.am" tvg-logo="https://www.kentron.tv/images/logo.png",Kentron
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Kentron.am" tvg-logo="https://s3.spbtv.com/spbtv-world-production/e95bb673c1346c5eba24.png",Kentron HD
+http://cdn.onarmtv.com/str/4/output.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="YerkirMedia.am" tvg-logo="https://pbs.twimg.com/profile_images/870551565345619969/vdTtDFf-.jpg",Yerkir Media 
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="AR.am" tvg-logo="https://www.beeline.am/images/channel/1/15498786845959.png",Azdarar TV
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ArmNews.am" tvg-logo="https://lh3.googleusercontent.com/proxy/Zf_OpRwAQKNsQMFh2NgGjecS6izWpyk6DNnW_Z4j_IOmGmpcsmIMLAwZsqejN4FS0kWUjB-7JowYw0mPeI4z-EvP9S7WJxj5lIdUrq-IV8SH4UXyYmS3x-JxD3rrL18w2Jzfeuc1C38hqDoE",ArmNews
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ArmNews.am" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYoSUjdzdFpMJut_E2OBw5szf-cYv7SSTbjS3AdA=s900-c-k-c0x00ffffff-no-rj",ArmNews HD
+http://cdn.onarmtv.com/str/10/output.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Shoxakat.am" tvg-logo="http://www.folkart-hub.org/wp-content/uploads/2015/01/Shoghakat-TV-folk-arts-hub-foundation-1.jpg",Shoxakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/USGVQIv.png" tvg-id="21TV.am",Dar 21
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/yIvRHoB.png",Azatutyun
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/Dx8pXXr.png",5-rd Aliq
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ATV.am" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ATV.am" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",ATV HD
+http://cdn.onarmtv.com/str/5/output.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",HayTV ATV
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",Xaxaliq ATV
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.imgur.com/kWwZ5Gr.png",TavaTV ATV
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="UPremium.am" tvg-logo="https://armtv.org/uploads/posts/2020-08/1597063455_armenia-premium.jpg",Armenia Premium 1
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="https://mobilelife.tert.am/youth/cache_image/youth/news_images/16/47215_1/haykino_logo-770x510.jpg",Armenia Haykino 2
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="https://scontent.fevn4-1.fna.fbcdn.net/v/t1.0-9/78241213_732485093937663_4869893645467123712_n.jpg?_nc_cat=109&ccb=2&_nc_sid=8bfeb9&_nc_ohc=w-9RZtse7FAAX-hk8nn&_nc_ht=scontent.fevn4-1.fna&oh=0897d23ad9dd57fad751f754b111fcbd&oe=604667DC",Armenia JanTV 3 
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="https://scontent.fevn4-1.fna.fbcdn.net/v/t1.0-9/79463709_733818280471011_4937953110283780096_n.jpg?_nc_cat=106&ccb=2&_nc_sid=8bfeb9&_nc_ohc=y0nUkTEbxgYAX_UYOAW&_nc_ht=scontent.fevn4-1.fna&oh=2cecf31d0761676be5f5491e38bf9f41&oe=60486A79",Armenia Comedy 4
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="https://scontent.fevn4-1.fna.fbcdn.net/v/t1.0-9/78364371_732485290604310_2034415477131837440_n.jpg?_nc_cat=100&ccb=2&_nc_sid=8bfeb9&_nc_ohc=DdCTfZgjkskAX_LhuW2&_nc_ht=scontent.fevn4-1.fna&oh=f1e512bbffd20b3786d0ef15221e2a1c&oe=60461FA2",Armenia Tuntunik 5
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="https://scontent.fevn4-1.fna.fbcdn.net/v/t1.0-9/81216472_751080352078137_410947384323866624_n.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_ohc=50YFn4G2eo8AX_mvVFY&_nc_ht=scontent.fevn4-1.fna&oh=aed95295ee73878eb086103d47b53cab&oe=60452D9C",Armenia Cinema 6
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC_yoNMPdmbZFK-ctvNJ_2Kg&psig=AOvVaw1AFpr-zm25YvRIW9am4VA9&ust=1612894802750000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDkis3z2u4CFQAAAAAdAAAAABAD",Pan Armenian TV
+https://stream.mediaworldvision.com:8811/PanarmLiveT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://www.parsatv.com/index_files/channels/artn.jpg",ARTN
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 group-title="Armenia",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia",HayastanTV
+http://cf.moskvatv.com/live/hayastantv/rhrthdvduwnewuine/120.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://hybridtv.am/wp-content/uploads/2015/03/Fortuna-TV-300x300.png",FortunaTV
+http://217.113.29.82:27709/FortunaTV/index.m3u8?token=fort5454782tok4112145shgadna221454
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ytimg.com/vi/YOd9Vzpw84U/maxresdefault.jpg",Nor Hayastan
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://cdn6.aptoide.com/imgs/1/3/1/131889d468f1b663c835c117acb33751_icon.png",TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Armenia",Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="Armenia",Song TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Armenia",Livenews.am
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/7b0493b53e9940494b046f8fdde2c0bd--itadvice--itadvice_720--chunklist.m3u8?hls_proxy_host=9719348103730aa5779c40a2948f495
+#EXTINF:-1 group-title="Armenia",Luys TV (Istanbul)
+http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
+#EXTINF:-1 group-title="Armenia",High Vision TV(Middle East)
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
